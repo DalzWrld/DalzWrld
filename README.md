@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web Developer in training | Frontend & UI/UX Enthusiast 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Crafting+clean+UIs+one+component+at+a+time;Learning+Full+Stack+Development+%40+Moringa+School;React+%7C+Flask+%7C+Tailwind+%7C+SQLite;Always+curious%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Crafting+clean+UIs+one+component+at+a+time;Always+curious%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
