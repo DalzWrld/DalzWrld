@@ -1,4 +1,4 @@
-# DalzWrld-s-README
+# DalzWrld's README
 
 <h1 align="center">Hello there, I'm Ian Ng'ang'a 👋</h1>
 <h3 align="center">Full Stack Web Developer in training | Frontend & UI/UX Enthusiast 🎨</h3>
