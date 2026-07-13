@@ -1,7 +1,6 @@
 # DalzWrld's README
 
 <h1 align="center">Hello there, I'm Ian Ng'ang'a 👋</h1>
-<h3 align="center">Full Stack Web Developer in training | Frontend & UI/UX Enthusiast 🎨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Crafting+clean+UIs+one+component+at+a+time;Always+curious%2C+always+building" alt="Typing SVG" />
@@ -56,10 +55,10 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:waithakaian49@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/ian-ng%E2%80%99ang%E2%80%99a-9544271b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
